@@ -6,7 +6,7 @@ Term Source Description	"Ontology for Biomedical Investigations"	"NCBI organisma
 INVESTIGATION
 Investigation Identifier	""
 Investigation Title	"HMS LINCS ICBP45"
-Investigation Description	""
+Investigation Description	"Based, in part, on Mario's Cue-Signal Experimental Protocol: Growth factor/cytokine treatments for imaging assays, HMS LINCS June 2011"
 Investigation Submission Date	""
 Investigation Public Release Date	""
 Comment [Last Opened With Configuration]	"isaconfig-default_v2011-02-18"
