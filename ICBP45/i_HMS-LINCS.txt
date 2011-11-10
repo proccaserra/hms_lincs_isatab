@@ -5,8 +5,8 @@ Term Source Version	""	"38802"	"45781"	"45662"	"45729"	"10-Jun"	"10-Jun"
 Term Source Description	"Ontology for Biomedical Investigations"	"NCBI organismal classification"	"ArrayExpress Experimental Factor Ontology"	"BRENDA tissue / enzyme source"	"Unit Ontology"	"Gene Ontology"	"Molecule Role (INOH)"	
 INVESTIGATION
 Investigation Identifier	""
-Investigation Title	"HMS LINCS ICBP45"
-Investigation Description	"Based, in part, on Mario's Cue-Signal Experimental Protocol: Growth factor/cytokine treatments for imaging assays, HMS LINCS June 2011"
+Investigation Title	"HMS LINCS Breast Cancer Cue Signal Response"
+Investigation Description	"This investigation consists of two HMS LINCS Breast Cancer Cue Signal Response datasets: -Breast Cancer CSR Dataset 1 (Niepel) 43 cell lines were treated with 16 growth factor/cytokine ligands at 2 doses each (1 and 100 ng/ml). Phosphorylation of 4 targets (pErk, pAkt, pP38, pJNK) was monitored at 3 time points (10, 30, 90 min) by imaging. This dataset is represented in the plates named GF1, GF2, GF3, and GF4. -Breast Cancer CSR Dataset 2 (Niepel) 43 cell lines were treated with 7 growth factor/cytokine ligands at 2 doses each (1 and 100 ng/ml). Phosphorylation of 4 targets (pErk, pSTAT1, pSTAT3, nuclear NF-kB) was monitored at 3 time points (10, 30, 90 min) by imaging. This dataset is represented the plates named CK1 and CK2."
 Investigation Submission Date	""
 Investigation Public Release Date	""
 Comment [Last Opened With Configuration]	"isaconfig-default_v2011-02-18"
@@ -41,7 +41,7 @@ Study Description	""
 Study File Name	"s_HMS-LINCS_SKBR3.txt"
 STUDY DESIGN DESCRIPTORS
 Study Design Type	"factorial design"
-Study Design Type Term Accession Number	"obi:OBI_0500014 "
+Study Design Type Term Accession Number	" obi:OBI_0500014 "
 Study Design Type Term Source REF	"OBI"
 STUDY PUBLICATIONS
 Study PubMed ID	""
@@ -102,7 +102,7 @@ Study Description	""
 Study File Name	"s_HMS-LINCS_184B5.txt"
 STUDY DESIGN DESCRIPTORS
 Study Design Type	"factorial design"
-Study Design Type Term Accession Number	"obi:OBI_0500014 "
+Study Design Type Term Accession Number	" obi:OBI_0500014 "
 Study Design Type Term Source REF	"OBI"
 STUDY PUBLICATIONS
 Study PubMed ID	""
@@ -164,7 +164,7 @@ Study Description	"This study serves as a template for creating additional studi
 Study File Name	"s_HMS-LINCS_template_.txt"
 STUDY DESIGN DESCRIPTORS
 Study Design Type	"factorial design"
-Study Design Type Term Accession Number	"obi:OBI_0500014 "
+Study Design Type Term Accession Number	" obi:OBI_0500014 "
 Study Design Type Term Source REF	"OBI"
 STUDY PUBLICATIONS
 Study PubMed ID	""
